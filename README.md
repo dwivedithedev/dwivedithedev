@@ -1,4 +1,4 @@
-**Hello visitor! My name is Vaibhav and here's my quick intro!**<br><br>🏙️ Based in Delhi, India<br>🛠️ Passionate about making & breaking things<br>🚀 Specializes in JavaScript & has experience with React, Svelte, NextJS etc.<br>🤖 Worked on projects in Cryptocurrency, Augmented/Virtual Reality, and Data Science<br>🎨 Enjoys sketching and drawing<br>📚 Loves reading books, exploring psychology & learning new things<br>🧠 Believes in lifelong learning and up-skilling<br>🤝 Enjoys helping others and sharing knowledge
+**Hello visitor! My name is Vaibhav and here's my quick intro!**<br><br>🏙️ Based out of India<br>🛠️ Passionate about making & breaking things<br>🚀 Specializes in JavaScript & has experience with React and NextJS.<br>🤖 Worked on projects in Agentic AI, LLMs, Augmented/Virtual Reality, and Data Science<br>🎨 Enjoys sketching and drawing<br>📚 Loves reading books, exploring psychology & learning new things<br>🧠 Believes in lifelong learning and up-skilling<br>🤝 Enjoys helping others and sharing knowledge
 
 
 ### 🌐 Socials:
